@@ -2,8 +2,6 @@
 Django Blog Zinnia |latest-version|
 ===================================
 
-|travis-develop| |coverage-develop|
-
 Simple yet powerful and really extendable application for managing a blog
 within your Django Web site.
 
@@ -14,7 +12,6 @@ left out.
 Why should we re-implement something that is already done and reviewed by
 others and tested?
 
-|paypal|
 
 Features
 ========
